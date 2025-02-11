@@ -1,0 +1,11 @@
+.outerContainer {
+    color: blue;
+    background-color: rgb(141, 22, 22);
+    padding: 10px;
+    border-radius: 5px;
+  }
+
+.paragraph {
+    color: white;
+    font-size: 20px;
+  } 
